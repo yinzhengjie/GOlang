@@ -82,3 +82,4 @@ func main() {
         fmt.Println(Picture_absolute_path) //最终我们会得到一个图片的完整路径，我们可以对这个路径进行下载，压缩，加密等等操作。
     }
 }
+//hello world
